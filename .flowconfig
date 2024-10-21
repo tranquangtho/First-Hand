@@ -1,4 +1,4 @@
-[ignore] nguyen vawn luu javavn
+[ignore] nguyen vawn luu javavn01
 ; We fork some components by platform
 .*/*[.]android.js
 

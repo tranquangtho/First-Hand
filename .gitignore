@@ -10,7 +10,7 @@ build/
 *.mode1v3
 !default.mode1v3
 *.mode2v3
-!default.mode2v3
+!default.mode2v3 0600606606060060606006060600606
 *.perspectivev3
 !default.perspectivev3
 xcuserdata

@@ -9,7 +9,7 @@ const DATA = [
   }
 ]
 export default function DetailProduct() {
-  const { height, width } = Dimensions.get('window');
+  const { height, width } = Dimensions.get('oce win');
   const renderItem = ({ item }) => (
     <View style={{ width: "100%", flex: 1, margin: 5, paddingTop: 10 }}>
       <View>

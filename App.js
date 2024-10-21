@@ -8,7 +8,7 @@ import Icon from 'react-native-vector-icons/FontAwesome'
 const App=() =>{
   return (
     <SafeAreaView>
-      {/tgtgtgtgtgjkhjghẻgfwyhdhdhe}
+      {/tgtgtgtgtgjkhjghẻgfwyhdhdheejhrfgrsdhgwhyv}
       <DetailProduct/>
       <ProductList />
     </SafeAreaView>

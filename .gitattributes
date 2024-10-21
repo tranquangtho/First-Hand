@@ -1,3 +1,3 @@
-# Windows files should use crlf line endings
+# Windows files should use crlf line endings 00011011
 # https://help.github.com/articles/dealing-with-line-endings/
 *.bat text eol=crlf
